@@ -68,5 +68,5 @@ ggplot(yearLabels, aes(label = yearRead, values = count, color = yearRead)) +
 
 
 
-ggsave("Day_2.png", p, width = 5, height = 5)
+ggsave("Day_2.png", p, width = 5, height = 3)
 
