@@ -54,9 +54,6 @@ agg <- agg %>%
   select(4:6)
 
 
-ggplot(agg, aes(x = total, y = weekday)) + 
-  geom_density_ridges()
-
 p<-ggplot(agg, aes(x = total, y = weekday, fill = weekday, color = weekday)) + 
   geom_density_ridges(alpha = 1)+
   stat_density_ridges(quantile_lines = TRUE, quantiles = 2, color="#b4d6e0") +
