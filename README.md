@@ -1,5 +1,8 @@
 # #30DayChartChallenge
 
+### Day 7: Physical [(Code)](https://github.com/tessaeagle/30daychartchallenge/blob/main/Code/Day_7.R)
+![alt text](https://github.com/tessaeagle/30daychartchallenge/blob/main/Plots/Day_7.png "Distribution of my 2020 step data across days of the week. The date range included is 1-21-20 to 12-22-20 as recorded by my Fitbit. The median steps for each weekday are indicated by the vertical blue lines and tend to be a bit higher on Saturday and Sunday")
+
 ### Day 6: Experimental [(Code)](https://github.com/tessaeagle/30daychartchallenge/blob/main/Code/Day_6.R)
 ![alt text](https://github.com/tessaeagle/30daychartchallenge/blob/main/Plots/Day_6.png "4 plots composed of lines in various spiral patterns. The first looks like a sunburst with alternating line lengths and star points on the end. The second has lines decreasing by quadrant. The third has all even lines going all the way around the circle. The four plots lines in decreasing lengths around the circle")
 
