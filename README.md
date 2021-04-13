@@ -1,5 +1,9 @@
 # #30DayChartChallenge
 
+
+### Day 12: Strips [(Code)](https://github.com/tessaeagle/30daychartchallenge/blob/main/Code/Day_12.R)
+![alt text](https://github.com/tessaeagle/30daychartchallenge/blob/main/Plots/Day_12.png "Navy background with 12 vertical lines, the first seven are light blue and indicate days of the 30 day chart challenge I've completed. The last 5 are peach and represent days I did not complete")
+
 ### Day 7: Physical [(Code)](https://github.com/tessaeagle/30daychartchallenge/blob/main/Code/Day_7.R)
 ![alt text](https://github.com/tessaeagle/30daychartchallenge/blob/main/Plots/Day_7.png "Distribution of my 2020 step data across days of the week. The date range included is 1-21-20 to 12-22-20 as recorded by my Fitbit. The median steps for each weekday are indicated by the vertical blue lines and tend to be a bit higher on Saturday and Sunday")
 
