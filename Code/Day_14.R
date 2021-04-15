@@ -39,7 +39,7 @@ p<-ggplot()+
   geom_segment(data = vseg, aes(x = x, xend = xend, y = y, yend = yend, color = group), size = 9)+
   geom_segment(data = hseg, aes(x = x, xend = xend, y = y, yend = yend, color = group), size = 9)+
   scale_color_gradient(high = "#c7d659", low = "#518a80")+
-  geom_point(data = pts, aes(x = x, y = y, fill = group), size = 4, shape = 21, color = "NA")+
+  geom_point(data = pts, aes(x = x, y = y, fill = group), size = 6, shape = 21, color = "NA")+
   scale_fill_gradient(high = "#34aac1", low = "#3a5276")+
   annotate("text", label = "DAVID BOWIE", x = 10, y = 16, color = "white", size = 10, family = "Bauhaus 93")+
   geom_image(data = df, aes(x = 9.5, y = 10, image = db), size = .5, asp = 1, alpha = .1)+
