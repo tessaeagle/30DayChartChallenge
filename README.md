@@ -1,5 +1,7 @@
 # #30DayChartChallenge
 
+### Day 14: Space [(Code)](https://github.com/tessaeagle/30daychartchallenge/blob/main/Code/Day_14.R)
+![alt text](https://github.com/tessaeagle/30daychartchallenge/blob/main/Plots/Day_14.png "")
 
 ### Day 12: Strips [(Code)](https://github.com/tessaeagle/30daychartchallenge/blob/main/Code/Day_12.R)
 ![alt text](https://github.com/tessaeagle/30daychartchallenge/blob/main/Plots/Day_12.png "Navy background with 12 vertical lines, the first seven are light blue and indicate days of the 30 day chart challenge I've completed. The last 5 are peach and represent days I did not complete")
