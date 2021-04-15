@@ -1,7 +1,7 @@
 # #30DayChartChallenge
 
 ### Day 14: Space [(Code)](https://github.com/tessaeagle/30daychartchallenge/blob/main/Code/Day_14.R)
-![alt text](https://github.com/tessaeagle/30daychartchallenge/blob/main/Plots/Day_14.png "")
+![alt text](https://github.com/tessaeagle/30daychartchallenge/blob/main/Plots/Day_14.png "rstats generated album cover of David Bowie's Space Oddity. Photo of David Bowie surrounded by concentric squares of green colors. There is an 18x18 grid of dots in blue/green colors running across the whole square")
 
 ### Day 12: Strips [(Code)](https://github.com/tessaeagle/30daychartchallenge/blob/main/Code/Day_12.R)
 ![alt text](https://github.com/tessaeagle/30daychartchallenge/blob/main/Plots/Day_12.png "Navy background with 12 vertical lines, the first seven are light blue and indicate days of the 30 day chart challenge I've completed. The last 5 are peach and represent days I did not complete")
